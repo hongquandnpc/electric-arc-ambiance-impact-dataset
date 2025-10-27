@@ -1,6 +1,7 @@
 # electric-arc-ambiance-impact-dataset
 
-Comprehensive electric arc voltage-current characteristic parameters dataset under various ambient conditions. Includes fitted parameters (α, β, Rc) from static arc model for PVC and PTFE materials.
+Comprehensive electric arc voltage-current characteristic parameters dataset under various ambient conditions. Includes fitted parameters (α, β, Rc) from the static arc model for PVC and PTFE materials derived from the dataset published in:
+Bogarra, Santiago, et al. "A dataset of voltage and current waveforms in an electric arc under low pressure for aircraft power systems." Scientific data 11.1 (2024): 1396.
 
 ## Overview
 
